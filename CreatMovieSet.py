@@ -1,4 +1,4 @@
-# It is movie data crawler.
+# It is for creating Moive Set
 # data from Korean Film Council 1/1/2012-5/2-/2017
 # 2017 spring semester
 
